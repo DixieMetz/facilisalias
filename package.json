@@ -1,0 +1,27 @@
+{
+  "name": "facilisalias",
+  "version": "1.0.0",
+  "description": "Provide full precision and rounded display string for BN.js instances",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DixieMetz/facilisalias.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "distinctio",
+    "molestiae",
+    "ERC20",
+    "Ethereum",
+    "fugiat",
+    "web3"
+  ],
+  "author": "FabianHudson",
+  "license": "MIT",
+  "dependencies": {
+    "bn.js": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  },
+  "homepage": "https://github.com/DixieMetz/facilisalias.git"
+}
